@@ -1,0 +1,8 @@
+master changed
+git test
+git file
+<<<<<<< HEAD
+slave0 changed++
+=======
+slave0 changed --++2
+>>>>>>> slave0
